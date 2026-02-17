@@ -1,10 +1,10 @@
 # Autocomplete Widget Presentation
 
-**Project Description:** A Flutter **Autocomplete** widget demo that shows **type-ahead suggestions** for Name and Country fields.
+A Flutter **Autocomplete** widget demo that shows **type-ahead suggestions** for Name and Country fields.
 
 ## Screenshot
 
-![Autocomplete demo screenshot](https://raw.githubusercontent.com/Emma001code/Autocomplete-Widget-Presentation/main/assets/screenshots/Autocompleteimg.png)
+![Autocomplete demo screenshot](assets/screenshots/Autocompleteimg.png)
 
 ## How to run
 
