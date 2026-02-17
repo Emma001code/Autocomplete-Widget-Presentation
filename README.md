@@ -2,9 +2,9 @@
 
 **Project Description:** A Flutter **Autocomplete** widget demo that shows **type-ahead suggestions** for Name and Country fields.
 
-## Screenshot 
+## Screenshot
 
-![Autocomplete demo screenshot](assets/screenshots/Autocompleteimg.png)
+![Autocomplete demo screenshot](https://raw.githubusercontent.com/Emma001code/Autocomplete-Widget-Presentation/main/assets/screenshots/Autocompleteimg.png)
 
 ## How to run
 
@@ -36,6 +36,6 @@ flutter run -d <device-id>
 
 This project demonstrates these three `Autocomplete<String>` properties:
 
-- **`optionsBuilder` (required)**: receives the current `TextEditingValue` and returns a filtered list of options to display.
-- **`fieldViewBuilder` (optional)**: builds the text field UI (we use it to set the controller/focus and apply hint + underline styling).
-- **`displayStringForOption` (optional)**: controls how each option is shown in the dropdown (here it’s just the option string).
+- **`optionsBuilder` : receives the current `TextEditingValue` and returns a filtered list of options to display.
+- **`fieldViewBuilder` : builds the text field UI (we use it to set the controller/focus and apply hint + underline styling).
+- **`displayStringForOption` : controls how each option is shown in the dropdown (here it’s just the option string).
